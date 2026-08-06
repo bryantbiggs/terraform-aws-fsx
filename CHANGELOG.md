@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.2](https://github.com/terraform-aws-modules/terraform-aws-fsx/compare/v1.3.1...v1.3.2) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#12](https://github.com/terraform-aws-modules/terraform-aws-fsx/issues/12)) ([6b21417](https://github.com/terraform-aws-modules/terraform-aws-fsx/commit/6b2141782b84da7eee502e98d9b8437aae37ebca))
+
 ## [1.3.1](https://github.com/terraform-aws-modules/terraform-aws-fsx/compare/v1.3.0...v1.3.1) (2025-10-21)
 
 ### Bug Fixes
